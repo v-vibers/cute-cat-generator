@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Environment variables with actual tokens (keep .env template in repo)
+.env.local
+.env.*.local
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

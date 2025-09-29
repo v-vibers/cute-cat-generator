@@ -1,13 +1,11 @@
 Please implement the following feature request:
 
-**Feature Request:** Make a subscribe.dev app for generating pics of cute cats themed around prompts supplied by the user. Chocolate cat, Strawberry cat, etc.
-
-Use "@subscribe.dev/react": "^0"
+**Feature Request:** Ensure we refer to the subscribe.dev token in the Provider component so this is not a demo project. The env file with the correct token will be added by the user after you make this change
 
 **Project Context:**
 - Repository: v-vibers/cute-cat-generator
-- Branch: feat/cat-app
-- Base Branch: main
+- Branch: feat/use_token
+- Base Branch: feat/cat-app
 - Requested by: brennan-volter
 
 **CRITICAL - Read Project Instructions First:**
